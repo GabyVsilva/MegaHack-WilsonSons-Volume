@@ -1,0 +1,152 @@
+ html {
+     font-family: Roboto, sans-serif;
+ }
+ 
+ body {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ header img {
+     width: 150px;
+     right: 40px;
+     left: 10px;
+ }
+ 
+ a {
+     float: right;
+     margin-right: 10px;
+     text-decoration: none;
+     text-transform: uppercase;
+     padding: 45px 45px;
+     font-weight: 500;
+     margin-top: 0px;
+ }
+ 
+ .container-courses h1 {
+     position: absolute;
+     width: 455px;
+     height: 35px;
+     left: 34px;
+     top: 130px;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 30px;
+     line-height: 35px;
+     text-transform: uppercase;
+     color: #2C3E6B;
+ }
+ 
+ .container-courses p {
+     position: absolute;
+     width: 364px;
+     height: 270px;
+     left: 36px;
+     top: 218px;
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 23px;
+     line-height: 40px;
+     /* or 133% */
+     text-transform: uppercase;
+     color: #5E5E5E;
+ }
+ 
+ .container-outros h1 {
+     position: absolute;
+     width: 118px;
+     height: 40px;
+     left: 1270px;
+     top: 170px;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 30px;
+     line-height: 40px;
+     /* identical to box height, or 133% */
+     text-transform: uppercase;
+     color: #2C3E6B;
+ }
+ 
+ .container-outros p {
+     position: absolute;
+     width: 100px;
+     height: 35px;
+     left: 1270px;
+     max-width: 90px;
+     top: 218px;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 23px;
+     line-height: 35px;
+     text-transform: uppercase;
+     color: #5E5E5E;
+ }
+ 
+ .options img {
+     width: 320px;
+     height: 150px;
+     opacity: 0.5;
+     border-radius: 20px;
+ }
+ 
+ .options {
+     list-style-type: none;
+ }
+ 
+ .options,
+ span {
+     text-transform: uppercase;
+     color: #2C3E6B;
+ }
+ 
+ .c {
+     position: absolute;
+     height: 4px;
+     left: 43px;
+     top: 562px;
+ }
+ 
+ .u {
+     position: absolute;
+     width: 398px;
+     height: 224px;
+     left: 487px;
+     top: 562px;
+ }
+ 
+ .r {
+     position: absolute;
+     width: 418px;
+     height: 224px;
+     left: 931px;
+     top: 562px;
+ }
+ 
+ .s1 {
+     position: absolute;
+     width: 410px;
+     height: 224px;
+     left: 46px;
+     top: 750px;
+ }
+ 
+ .o {
+     position: absolute;
+     width: 398px;
+     height: 224px;
+     left: 493px;
+     top: 750px;
+ }
+ 
+ .s2 {
+     position: absolute;
+     width: 398px;
+     height: 224px;
+     left: 943px;
+     top: 750px;
+ }
+ 
+ h2 {
+     margin-top: -120px;
+ }
