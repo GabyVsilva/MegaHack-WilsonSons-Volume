@@ -70,7 +70,7 @@
  
  .container-outros p {
      position: absolute;
-     width: 100px;
+     width: 118px;
      height: 35px;
      left: 1270px;
      max-width: 90px;
@@ -92,6 +92,7 @@
  
  .options {
      list-style-type: none;
+     width: max-content;
  }
  
  .options,
@@ -101,9 +102,10 @@
  }
  
  .c {
+     width: 480px;
      position: absolute;
-     height: 4px;
-     left: 43px;
+     height: 224px;
+     left: 46px;
      top: 562px;
  }
  
@@ -117,9 +119,9 @@
  
  .r {
      position: absolute;
-     width: 418px;
+     width: 398px;
      height: 224px;
-     left: 931px;
+     left: 943px;
      top: 562px;
  }
  
