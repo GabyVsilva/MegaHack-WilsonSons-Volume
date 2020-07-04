@@ -1,0 +1,46 @@
+html {
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    float: right;
+    margin-right: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 45px 45px;
+    font-weight: 500;
+    margin-top: 0px;
+    color: #2C3E6B;
+    font-size: 23px;
+}
+
+img {
+    width: 150px;
+    right: 40px;
+    left: 10px;
+}
+
+table{
+    margin-left:28%;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+h2 {
+    background-color: #00A9D4;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 22px;
+}
+

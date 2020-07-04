@@ -1,0 +1,27 @@
+html {
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    float: right;
+    margin-right: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 45px 45px;
+    font-weight: 500;
+    margin-top: 0px;
+    color: #2C3E6B;
+    font-size: 23px;
+}
+
+img {
+    width: 150px;
+    right: 40px;
+    left: 10px;
+}
+

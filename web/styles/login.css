@@ -6,16 +6,16 @@ left: 0px;
 top: 0px;
 
 
-    background: url('../imagens/fundo.png') no-repeat;
+    background: url('/web/assets/fundo.png') no-repeat;
 }
 
 #Login .logo{
 position: absolute;
 width: 154px;
 height: 101.82px;
-left: 1000px;
+left: 1005px;
 top: 100.18px;
-background: url('../imagens/logo.png');
+background: url('/web/assets/logologin.png');
 }
 #Login .acesse{
 
@@ -95,8 +95,10 @@ font-weight: normal;
 font-size: 25px;
 line-height: 35px;
 text-transform: capitalize;
-
 color: #FFFFFF;
+
 }
 
-# Wilson
+::placeholder{ 
+    color: #2C3E6B;
+}
