@@ -12,3 +12,17 @@ TREINAMENTOS : Será disponibilizada uma tela de acesso a cursos e treinamentos 
 de diversas categorias. O usuário so precisará escolher sua area de interesse e concluir sua matricula.
 Além da ferramenta de consulta de certificados que também é disponibilizada.
 
+Radar: Através das distâncias em relação a 3 antenas no mínimo, que estarão na embarcação
+fazemos a triangularização com o GPS e saberemos onde está o rebocador em questão, 
+esses dados são enviados para um tabela no html, onde utilizamos essesdados para 
+mostrar a posição no radar.
+Como vamos medir isso com frequência, conseguiremos calcular a velocidade do rebocador 
+em relação à embarcação quando estiver muito próxima com risco de acidente a embarcação 
+será notificada, obs: temos o botão 'Enviar Alerta' caso haja necessidade.
+
+Combustível: Vamos adaptar a régua q eles já usam para ser usada como sensor capacitivo,
+com isso teremos a quantidade de combustível, esses dados são enviados para o gráfico 
+no javascript que mostra a porcentagem do combustível e em qual nível esta (alto, médio ou
+critico).
+O gráfico mostra o valor total do combustível, mas a quantidade atual é divida de 
+acordo com o nível de quantidade.

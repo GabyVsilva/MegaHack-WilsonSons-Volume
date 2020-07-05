@@ -25,12 +25,12 @@ Highcharts.chart('container', {
     },
     series: [{
         name: 'Alto',
-        data: [5, 3]
+        data: [5, 0]
     }, {
         name: 'Médio',
-        data: [2, 2]
+        data: [0, 0]
     }, {
         name: 'Critico',
-        data: [3, 4]
+        data: [0, 4]
     }]
 });

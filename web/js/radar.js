@@ -3,7 +3,7 @@ Highcharts.chart('container', {
         table: 'freq',
         startRow: 1,
         endRow: 17,
-        endColumn: 7
+        endColumn: 2
     },
 
     chart: {
@@ -14,7 +14,7 @@ Highcharts.chart('container', {
     },
 
     title: {
-        text: 'Radar'
+        text: 'Radar por direção de navio'
     },
 
     pane: {
@@ -31,22 +31,16 @@ Highcharts.chart('container', {
         showLastLabel: true,
         labels: {
             formatter: function () {
-                return this.value + '%';
+                return this.value + '';
             }
         },
-        reversedStacks: false
-    },
-
-    tooltip: {
-        valueSuffix: '%'
+        
     },
 
     plotOptions: {
         series: {
             stacking: 'normal',
-            shadow: false,
-            groupPadding: 0,
-            pointPlacement: 'on'
         }
     }
 });
+
