@@ -1,0 +1,6 @@
+Login : A tela de login vai permitir que os usuários acessem o site através do registro
+que a empresa usa para identificar os funcionários(email,número de identificação e etc),
+o funcionário deverá colocar esse registro de identificação no local cujo o nome se 
+refere a "usuários" e em seguida colocar a senha destinada pela empresa ao funcionário,
+após esse processo basta clicar no botão "acessar" que o usuário poderá ter acesso ao 
+site da empresa.
