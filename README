@@ -4,3 +4,11 @@ o funcionário deverá colocar esse registro de identificação no local cujo o 
 refere a "usuários" e em seguida colocar a senha destinada pela empresa ao funcionário,
 após esse processo basta clicar no botão "acessar" que o usuário poderá ter acesso ao 
 site da empresa.
+
+MAIN : Nessa tela o usuário conhecerá sobre nossa ferramenta e terá acesso 
+as abas de treinamentos, níveis de combustível e consulta do radar.
+
+TREINAMENTOS : Será disponibilizada uma tela de acesso a cursos e treinamentos online 
+de diversas categorias. O usuário so precisará escolher sua area de interesse e concluir sua matricula.
+Além da ferramenta de consulta de certificados que também é disponibilizada.
+
