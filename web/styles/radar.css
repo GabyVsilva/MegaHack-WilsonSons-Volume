@@ -2,6 +2,7 @@ html {
     font-family: Roboto, sans-serif;
 }
 
+  
 body {
     margin: 0;
     padding: 0;
@@ -25,22 +26,19 @@ img {
     left: 10px;
 }
 
-table{
-    margin-left:28%;
-    border-collapse: collapse;
+input[type='button'] {
+    background: #2C3E6B;
+    border-radius: 15.2239px;
+    width: 205px;
+    height: 62px;
+    position: relative;
+    bottom: 100px;
+    left: 1100px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    text-transform: capitalize;
+    color: #FFFFFF;
 }
-
-td, th {
-    border: 1px solid #999;
-    padding: 0.5rem;
-    text-align: left;
-}
-
-h2 {
-    background-color: #00A9D4;
-    text-align: center;
-    color: white;
-    padding: 20px;
-    margin-bottom: 22px;
-}
-
