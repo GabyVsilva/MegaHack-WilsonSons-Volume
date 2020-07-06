@@ -1,3 +1,11 @@
+Para executar o projeto será necessário ter o seguinte programa: 
+
+•	Visual Studio Code - Necessário para executar a aplicação web;
+
+•	Extensão Watch in Chrome - Instalada através do próprio VSCode, na aba extensões
+depois disso é só ir até o arquivo html que deseja abrir e apertar CTRL + Shift + P e
+seleciona "Watch in Chrome".
+
 Login : A tela de login vai permitir que os usuários acessem o site através do registro
 que a empresa usa para identificar os funcionários(email,número de identificação e etc),
 o funcionário deverá colocar esse registro de identificação no local cujo o nome se 
